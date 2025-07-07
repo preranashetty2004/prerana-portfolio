@@ -1,14 +1,14 @@
 # prerana-portfolio
 A interactive portfolio website
 
-#home and about 
+# Home and about 
 ![image alt](https://github.com/preranashetty2004/prerana-portfolio/blob/main/screenshots/home%20and%20about%20me.png)
 
-#skills
+# Skills
 ![image alt](https://github.com/preranashetty2004/prerana-portfolio/blob/main/screenshots/skills.png)
 
-#projects
+# Projects
 ![image alt](https://github.com/preranashetty2004/prerana-portfolio/blob/main/screenshots/projects.png)
 
-#interest & contact me
+# Interest & Contact me
 ![image alt](https://github.com/preranashetty2004/prerana-portfolio/blob/main/screenshots/interests%20and%20contact%20me.png)
