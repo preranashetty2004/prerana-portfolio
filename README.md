@@ -12,3 +12,6 @@ A interactive portfolio website
 
 # Interest & Contact me
 ![image alt](https://github.com/preranashetty2004/prerana-portfolio/blob/main/screenshots/interests%20and%20contact%20me.png)
+
+# Dark Mode
+![image alt](https://github.com/preranashetty2004/prerana-portfolio/blob/main/screenshots/dark%20mode.png)
