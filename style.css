@@ -312,6 +312,98 @@ body.dark-mode .section-title {
   color: #90caf9; /* Soft blue — readable and modern */
 }
 
+/* Responsive Design for Mobile */
+@media (max-width: 768px) {
+  /* Navbar adjustments */
+  #navbar ul {
+    flex-direction: column;
+    gap: 15px;
+    padding: 0;
+  }
+
+  #navbar {
+    padding: 10px 0;
+  }
+
+  /* Hero section adjustments */
+  #hero h1 {
+    font-size: 2rem;
+  }
+
+  #hero p {
+    font-size: 1rem;
+  }
+
+  #profile-pic {
+    width: 100px;
+    height: 100px;
+  }
+
+  /* Project cards adjustments */
+  .project-card {
+    padding: 12px 15px;
+  }
+
+  .project-card h3 {
+    font-size: 1.1rem;
+  }
+
+  .project-card p {
+    font-size: 0.9rem;
+  }
+
+  /* Skills & Interests adjustments */
+  .skills-list li,
+  .interests-list li {
+    font-size: 0.9rem;
+    padding: 8px 10px;
+  }
+
+  .interests-list {
+    grid-template-columns: 1fr; /* Stack items vertically */
+  }
+
+  /* Navbar links font-size smaller */
+  #navbar a {
+    font-size: 0.9rem;
+  }
+
+  /* Dark mode toggle */
+  #darkModeToggle {
+    top: 10px;
+    right: 15px;
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  #hero h1 {
+    font-size: 1.6rem;
+  }
+
+  #hero p {
+    font-size: 0.9rem;
+  }
+
+  #profile-pic {
+    width: 80px;
+    height: 80px;
+  }
+
+  .project-card h3 {
+    font-size: 1rem;
+  }
+
+  .project-card p {
+    font-size: 0.85rem;
+  }
+
+  #navbar a {
+    font-size: 0.85rem;
+  }
+}
+
+
 
 
 
